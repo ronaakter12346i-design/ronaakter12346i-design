@@ -1,6 +1,6 @@
 # Hi there, I'm Rona Akter! 👋
 
-### 🚀 About Me
+### About Me
 I am a highly disciplined, analytical **Data Science Undergraduate** in my first semester at **Universitas Sebelas Maret (UNS)**, Indonesia. I am proud to be a **Fully-Funded International Scholar**, an officially recognized **Young SDG Fellow**, and an experienced **Research Intern**. Driven by a strict 4:30 AM daily discipline, my long-term trajectory is focused on structuring, building, and optimizing scalable data systems to tackle real-world challenges.
 
 * 🎓 **Achievement:** Awarded a **Fully Funded International Scholarship** based on superior academic merit and leadership potential (2024).
