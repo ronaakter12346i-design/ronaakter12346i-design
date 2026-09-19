@@ -3,7 +3,7 @@
 ### About Me
 I am a highly disciplined, analytical **Data Science Undergraduate** in my first semester at **Universitas Sebelas Maret (UNS)**, Indonesia. I am proud to be a **Fully-Funded International Scholar**, an officially recognized **Young SDG Fellow**, and an experienced **Research Intern**. Driven by a strict 4:30 AM daily discipline, my long-term trajectory is focused on structuring, building, and optimizing scalable data systems to tackle real-world challenges.
 
-* 🎓 **Achievement:** Awarded a **Fully Funded International Scholarship** based on superior academic merit and leadership potential (2024).
+* 🎓 **Achievement:** Awarded a **Fully Funded International Scholarship** based on superior academic merit and leadership potential (2026).
 * 💼 **Research Experience:** Served as an official **Research Intern** at *Lal Sabuj Society (LSS)*, specializing in academic literature reviews, data collection, and supervisory data cleaning/coding.
 * 🌍 **Fellowship:** Recognized as a **Young SDG Fellow** by the *Commonwealth Students' Association* (May 2026) for global youth development frameworks.
 * 🛠️ **My Career Target:** Aspiring to become a highly skilled **Data Engineer** first, and then transition into a **Data Scientist**.
